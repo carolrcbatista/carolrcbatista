@@ -1,6 +1,7 @@
 # carolzinha
 #### namoro com o meu namorado
 
+![image](https://user-images.githubusercontent.com/110929123/184942747-09ae2fb9-6c45-426a-afc4-b27ac4b19cdd.png)
 
 <!--
 **carolrcbatista/carolrcbatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
