@@ -1,5 +1,6 @@
 # carolzinha
 #### namoro com o meu namorado
+#### email: ana.carolinarocha.batista@escola.pr.gov.br
 
 ![image](https://user-images.githubusercontent.com/110929123/184942747-09ae2fb9-6c45-426a-afc4-b27ac4b19cdd.png)
 
